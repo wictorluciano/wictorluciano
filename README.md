@@ -1,9 +1,9 @@
-<p> <img src="https://komarev.com/ghpvc/?username=wictorluciano&color=yellow" alt="Profile views" /> </p>
 
 ## Olá, seja bem vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 <img align="right" height="500cm"
 src="https://raw.githubusercontent.com/gist/wictorluciano/6471d2f335599e1a5593f6c8843a3a20/raw/2c4c248cc3c5c6268909e2aecb7806d07f0a6f84/githubcard.svg" />
 
+<p> <img src="https://komarev.com/ghpvc/?username=wictorluciano&color=yellow" alt="Profile views" /> </p>
 
 🚀 **Skills**
 
