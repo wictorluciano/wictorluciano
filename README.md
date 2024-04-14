@@ -47,12 +47,11 @@ src="https://raw.githubusercontent.com/gist/wictorluciano/6471d2f335599e1a5593f6
 ##
 
 <div align="center">
-  <a href="https://github.com/wictorluciano">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wictorluciano&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wictorluciano&repo=Projetos&layout=compact&theme=radical)](https://github.com/wictorluciano/Projetos)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/top-langs/?username=wictorluciano&layout=compact&theme=radical)](https://github.com/wictorluciano)
     
-  <a href="https://github.com/wictorluciao/convoychat">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wictorluciano&layout=compact&theme=radical" />
-</a>
 </div>
   
 ![snake gif](https://github.com/wictorluciano/wictorluciano/blob/output/github-contribution-grid-snake.svg)
