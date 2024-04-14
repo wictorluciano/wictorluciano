@@ -49,7 +49,6 @@ src="https://raw.githubusercontent.com/gist/wictorluciano/6471d2f335599e1a5593f6
 <div align="center">
   
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wictorluciano&repo=Projetos&layout=compact&theme=radical)](https://github.com/wictorluciano/Projetos)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/top-langs/?username=wictorluciano&layout=compact&theme=radical)](https://github.com/wictorluciano)
     
 </div>
