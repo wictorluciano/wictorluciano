@@ -49,10 +49,10 @@ src="https://raw.githubusercontent.com/gist/wictorluciano/6471d2f335599e1a5593f6
 <div align="center">
   <div>
     <a href="https://git.io/streak-stats">
-      <img height=200 src="https://streak-stats.demolab.com?user=wictorluciano&theme=slateorange"/>
+      <img height=190 src="https://streak-stats.demolab.com?user=wictorluciano&theme=slateorange"/>
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=wictorluciano&layout=compact&langs_count=8&theme=slateorange" />
+      <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs?username=wictorluciano&layout=compact&langs_count=8&theme=slateorange" />
     </a>
   </div>
   <div >
